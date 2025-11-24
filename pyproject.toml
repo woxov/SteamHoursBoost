@@ -1,0 +1,7 @@
+[project]
+name = "steamboost"
+version = "0.1.0"
+description = "Tool for boost hours in any game in steam"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
