@@ -26,7 +26,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/woxov/SteamBoost.git
+git clone https://github.com/woxov/SteamHoursBoost.git
 cd SteamBoost
 
 # Установить зависимости
